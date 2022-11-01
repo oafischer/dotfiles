@@ -19,7 +19,7 @@
     --zh-theme-color-text-tertiary: #a5adcb;
     --zh-theme-color-text-placeholder: var(--zh-scale-grey-30);
     --zh-theme-color-text-disabled: var(--zh-scale-grey-40);
-    --zh-theme-color-text-inverse: #363a4f;
+    --zh-theme-color-text-inverse: #24273a;
     --zh-theme-color-text-brand: #f4dbd6;
     --zh-theme-color-text-risk: var(--zh-scale-yellow-40);
     --zh-theme-color-text-danger: var(--zh-scale-red-60);
@@ -264,4 +264,8 @@ body {
 
 .zhc-button--color-secondary.zhc-button--variant-text {
   color: #cad3f5;
+}
+
+.zhc-issue-badge--pr-merged {
+  background-color: #c6a0f6;
 }
