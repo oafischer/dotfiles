@@ -274,6 +274,27 @@ body {
   background-color: #1e2030 !important;
 }
 
-.m8zYn8Kz8WiprsHUT4YQ {
+.zhc-selection-list-deprecated__list {
+  background-color: #1e2030;
+}
+
+.zhc-selection-list-deprecated__header {
+  background-color: #1e2030;
+}
+
+.zhc-selection-filter {
   background-color: #1e2030 !important;
+}
+
+.zhc-selection-list-deprecated__header__text {
+  color: #cad3f5 !important;
+}
+
+.zhc-selection-item {
+  color: #cad3f5 !important;
+}
+
+.zh-dependency-manager-container.TimelineItem .zhc-dependency {
+  background-color: #1e2030 !important;
+  color: #cad3f5 !important;
 }
