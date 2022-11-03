@@ -1,0 +1,57 @@
+/* ==UserStyle==
+@name           meet.google.com - 03/11/2022, 14:18:22
+@namespace      https://github.com/oafischer/dotfiles/
+@version        0.0.1
+@description    Catppuccin Macchiato theme for Google Meets
+@author         oafischer
+==/UserStyle== */
+@-moz-document domain("meet.google.com") {
+
+    :root {
+        --gm-background-color: #cad3f5;
+        --gm-body-text-color: #363a4f;
+        --gm-caption-color: #6e738d;
+        --gm-error-color-highlight: #f0c6c6;
+        --gm-error-color: #ed8796;
+        --gm-hairline-color: #939ab7;
+        --gm-hint-color: #6e738d;
+        --gm-label-color: #6e738d;
+        --gm-navigation-icon-color: #363a4f;
+        --gm-neutral-highlight-color: #f4dbd6;
+        --gm-neutral-outline-color: #f4dbd6;
+        --gm-overlay-color--on-theme-background: #181926;
+        --gm-secondary-icon-color: var(--gm-label-color);
+        --gm-text-color--on-dark-background: var(--gm-text-color--on-theme-background);
+        --gm-text-color--on-theme-background: #cad3f5;
+        --gm-theme-color--base: #c6a0f6;
+        --gm-theme-color--elevation-shadow-1: rgba(26, 115, 232, 0.149);
+        --gm-theme-color--elevation-shadow-2: rgba(26, 115, 232, 0.302);
+        --gm-theme-color--stateful: #b7bdf8;
+        --gm-theme-color-highlight: #e8f0fe;
+        --gm-theme-color: #c6a0f6;
+        --gm-tooltip-background-color: #1e2030;
+        --mdc-theme-primary: var(--gm-theme-color);
+    }
+
+    .crqnQb {
+        background-color: #24273a;
+    }
+    .DLTdnd {
+        color: #cad3f5;
+        background-color: #1e2030;
+    }
+    .Sdwpn.P9KVBf {
+        background-color: #181926;
+        color: #cad3f5;
+    }
+    .MON6Vd {
+        background-color: #1e2030;
+    }
+    .P9KVBf {
+        --minimeet-background-color: #181926;
+        --minimeet-on-background-color: #b8c0e0;
+        --minimeet-on-surface-color: #b8c0e0;
+        --minimeet-on-surface-variant-color: #939ab7;
+        --minimeet-custom-background-color: #363a4f;
+    }
+}
