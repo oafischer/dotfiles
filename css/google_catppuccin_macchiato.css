@@ -1,0 +1,150 @@
+/* ==UserStyle==
+@name           Google Catppuccin
+@namespace      https://github.com/oafischer/dotfiles
+@version        0.0.1
+@description    Catppuccin-Macchiato theme for Google.
+@author         oafischer
+==/UserStyle== */
+@-moz-document domain("www.google.com") {
+    body {
+        --fbc-blue-60: #f4dbd6;
+        --fbc-blue-70: #a6da95;
+        --fbc-gray-20: #b8c0e0;
+        --fbc-light-gray: #cad3f5;
+        --fbc-white: #cad3f5;
+        --fbc-primary-text: #15141A;
+        --fbc-secondary-text: #24273a;
+    }
+
+    .LS8OJ {
+
+        background-color: #24273a;
+    }
+
+    .om7nvf {
+
+        background-color: #24273a;
+    }
+    .ikrT4e {
+
+        background-color: #24273a;
+    }
+    .o3j99 {
+
+        background-color: #24273a;
+    }
+    .gb_2a {
+
+        background-color: #24273a !important;
+    }
+    .gb_Bc {
+
+        background-color: #24273a !important;
+    }
+    .gb_Zd {
+
+        background-color: #24273a !important;
+    }
+
+    .KxwPGc {
+
+        background-color: #1e2030;
+    }
+
+    .gb_Bc a.gb_d,
+    .gb_Bc span.gb_d {
+        color: #cad3f5;
+    }
+
+    a.MV3Tnb {
+        color: #b8c0e0;
+    }
+
+    .lJ9FBc input[type="submit"],
+    .gbqfba {
+        background-color: #363a4f;
+        border: 1px solid #363a4f;
+        color: #cad3f5;
+    }
+
+    .GyAeWb {
+        background-color: #24273a;
+    }
+
+    .e9EfHf {
+        background-color: #24273a;
+    }
+    #result-stats {
+        color: #cad3f5;
+        background-color: #24273a;
+    }
+    .LHJvCe {
+        color: #cad3f5;
+        background-color: #24273a;
+    }
+
+    .srp {
+        background-color: #24273a !important;
+    }
+
+    .f6F9Be {
+        background: #1e2030;
+    }
+
+    .yuRUbf {
+        color: #cad3f5;
+        background-color: #24273a;
+    }
+
+    .uo4vr {
+        color: #cad3f5;
+        background-color: #24273a;
+    }
+
+    .yDYNvb.lyLwlc {
+        color: #cad3f5;
+        background-color: #24273a;
+    }
+
+    .UK95Uc {
+        color: #cad3f5;
+        background-color: #24273a;
+    }
+
+    .WE0UJf {
+        color: #cad3f5;
+        background-color: #24273a;
+    }
+
+    .sfbg {
+        background: #24273a;
+    }
+
+    .yg51vc {
+        color: #cad3f5;
+        background-color: #24273a;
+    }
+
+    .minidiv .sfbg {
+        color: #cad3f5;
+        background: #24273a;
+    }
+
+    .k8XOCe {
+
+        background-color: #363a4f;
+    }
+
+    .s75CSd {
+        color: #b8c0e0;
+    }
+
+    .fbar p,
+    .fbar a {
+        color: #a5adcb;
+    }
+
+    #n9PX2 .EDblX {
+        background-color: #24273a;
+    }
+}
