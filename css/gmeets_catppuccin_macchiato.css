@@ -1,22 +1,22 @@
 /* ==UserStyle==
-@name           Google Meets Catppuccin
+@name           meet.google.com - 03/11/2022, 14:18:22
 @namespace      https://github.com/oafischer/dotfiles/
 @version        0.0.1
-@description    Catppuccin-Macchiato theme for Google Meets.
+@description    Catppuccin Macchiato theme for Google Meets
 @author         oafischer
 ==/UserStyle== */
 @-moz-document domain("meet.google.com") {
 
     :root {
-        --gm-background-color: #cad3f5;
-        --gm-body-text-color: #363a4f;
-        --gm-caption-color: #6e738d;
+        --gm-background-color: #24273a;
+        --gm-body-text-color: #cad3f5;
+        --gm-caption-color: #b8c0e0;
         --gm-error-color-highlight: #f0c6c6;
         --gm-error-color: #ed8796;
         --gm-hairline-color: #939ab7;
         --gm-hint-color: #6e738d;
         --gm-label-color: #6e738d;
-        --gm-navigation-icon-color: #363a4f;
+        --gm-navigation-icon-color: #a6da95;
         --gm-neutral-highlight-color: #f4dbd6;
         --gm-neutral-outline-color: #f4dbd6;
         --gm-overlay-color--on-theme-background: #181926;
@@ -58,6 +58,9 @@
         color: #cad3f5;
     }
     .TVR08c {
+        color: #cad3f5;
+    }
+    .Yi3Cfd {
         color: #cad3f5;
     }
 }
