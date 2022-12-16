@@ -186,7 +186,6 @@ padding-top: 6px !important;
   display: block;
   position: fixed;
   right: 0px !important;
-  padding-left: 40px !important;
   margin: 4px 0px 0px 0px !important;
 }
 
@@ -195,6 +194,5 @@ padding-top: 6px !important;
 #nav-bar-overflow-button {
   visibility: visible !important;
   display: block;
-  position: fixed;
-  padding-right: 24px !important;
+  margin: 0px 20px 0px 0px !important;
 }
