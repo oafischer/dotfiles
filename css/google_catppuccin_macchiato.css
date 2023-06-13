@@ -16,6 +16,10 @@
         --fbc-secondary-text: #24273a;
     }
 
+    #gb {
+        background-color: #24273a !important;
+    }
+
     .LS8OJ {
 
         background-color: #24273a;
@@ -146,5 +150,63 @@
 
     #n9PX2 .EDblX {
         background-color: #24273a;
+    }
+
+    .appbar {
+        background: #24273a;
+    }
+
+    a {
+        color: #cad3f5;
+    }
+
+    a:visited {
+        color: #b7bdf8;
+    }
+
+    .ynAwRc {
+        color: #b8c0e0;
+    }
+
+    cite,
+    cite a:link,
+    cite a:visited {
+        color: #a5adcb;
+    }
+
+    .dyjrff {
+        color: #a5adcb;
+    }
+
+    .VuuXrf {
+        color: #b8c0e0;
+    }
+
+    .hb8SAc {
+        color: #cad3f5;
+    }
+
+    .w8qArf {
+        color: #b8c0e0;
+    }
+
+    .WZ8Tjf {
+        color: #b8c0e0;
+    }
+
+    .yXK7lf em {
+        color: #a6da95;
+    }
+
+    .rbYSKb {
+        color: #a6da95;
+    }
+
+    .LrzXr {
+        color: #b8c0e0;
+    }
+
+    .JNkvid .HnYYW {
+        color: #cad3f5;
     }
 }
