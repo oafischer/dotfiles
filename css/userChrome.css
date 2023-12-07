@@ -185,7 +185,7 @@ See the above repository for updates as well as full license text. */
 /* Move window buttons to nav bar. */
 
 #nav-bar { 
-  padding-left: 54px;
+  padding-left: 80px;
 }
 #TabsToolbar .titlebar-buttonbox-container {
   visibility: visible !important;
