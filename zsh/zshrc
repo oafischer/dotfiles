@@ -3,4 +3,4 @@ function parse_git_branch() {
 }
 
 setopt PROMPT_SUBST
-export PROMPT='%{%F{102}%}%n %{%F{224}%}%~ %{%F{151}%}$(parse_git_branch) %{%F{normal}%}🐾 %{%f%} '
+export PROMPT='%{%F{102}%}%n %{%F{146}%}%~ %{%F{211}%}$(parse_git_branch) %{%F{normal}%}🐾 %{%f%} '
